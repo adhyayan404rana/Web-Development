@@ -32,11 +32,21 @@ BEGINNER ───────────────────────�
 ```
 Web-Development/
 │
-├── 📂 Basics/              # HTML & CSS fundamentals — where it all began
-├── 📂 First Project/       # My very first web project (don't judge 😅)
-├── 📂 First-Website/       # A full website — proud moment ✨
-├── 📂 Images/              # Assets and resources
-└── 📂 SEO Core Vitals/     # Learning search optimization
+├── 📂 Basics/                    # HTML & CSS fundamentals — where it all began
+├── 📂 Bookmark Website/          # Bookmark manager project
+├── 📂 CSS/                       # CSS learning journey 🎨
+│   └── 📂 CSS Basics/            # CSS selectors, colors & styling basics
+├── 📂 Entities and Code Tag/     # HTML entities & code formatting
+├── 📂 First-Website/             # A full website — proud moment ✨
+├── 📂 Forms/                     # HTML forms & input types
+├── 📂 ID and Classes/            # CSS ID & class selectors
+├── 📂 Images/                    # Working with images in HTML
+├── 📂 Inline And Block Elements/ # Understanding display properties
+├── 📂 Pure HTML Media Player/    # Media player built with pure HTML
+├── 📂 SEO Core Vitals/           # Learning search optimization
+├── 📂 Semantic Tags/             # Semantic HTML5 elements
+├── 📂 Video and Images/          # Audio, video & embed features
+└── 📄 README.md
 ```
 
 ---
